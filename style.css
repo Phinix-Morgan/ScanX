@@ -122,3 +122,10 @@ img{
     transform: scale(1);
 
 }
+
+@media (max-width: 900px){
+
+  img{
+    width: 20%;
+  }
+}
