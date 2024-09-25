@@ -43,6 +43,7 @@ body {
     font-weight: 600;
     text-decoration: none;
     color: #fff;
+    margin-left: 20px;;
   }
   
   .navbar-menu {
@@ -52,6 +53,7 @@ body {
   
   .navbar-menu li {
     margin-left: 20px;
+    margin-right: 20px;
   }
   
   .navbar-menu a {
@@ -122,6 +124,7 @@ img{
     transform: scale(1);
 
 }
+
 
 @media (max-width: 900px){
 
